@@ -3,10 +3,6 @@
 
 This project provides a collection of single HTML element CSS animations for creating loaders. These loaders are designed to be lightweight and easy to integrate into your web projects.
 
-## Preview
-
-![Simple CSS Loaders Preview](preview.gif)
-
 ## Installation
 
 You can simply clone this repository to your local machine using Git:
